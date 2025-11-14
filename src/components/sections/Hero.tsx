@@ -12,7 +12,7 @@ export const Hero = ({ onFlashAuditClick, onEstimateClick }: HeroProps) => {
       <div className="container mx-auto px-6">
         <div className="max-w-5xl">
           <h1 className="text-7xl md:text-9xl font-display font-bold leading-none mb-8">
-            révéler la performance inclusive.
+            Votre performance numérique, accessible à chacun.
           </h1>
           <p className="text-xl md:text-2xl mb-12 max-w-2xl">
             Pour des services numériques fiables, accessibles et adaptés à chaque parcours utilisateur.
